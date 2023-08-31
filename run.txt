@@ -1,0 +1,9 @@
+How to Run the Golang Program:
+
+1. Make sure you have Go installed.
+2. Clone this repository using the command:
+   git clone https://github.com/APoniatowski/monitor-task
+3. Navigate to the cloned directory:
+   cd monitor-task
+4. Run the Golang program using the following command:
+   go run monitor.go
